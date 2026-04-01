@@ -1,0 +1,1 @@
+print ("Pipeline script triggered via GitHub webhook")
